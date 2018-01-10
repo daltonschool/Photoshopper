@@ -20,11 +20,10 @@ Image gallery of CS2 Photoshopper special effects.
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_triangulate.jpg)
 <br>Contrast, Explode, Puzzle, Rotate, Swirl, Unswirl and Triangulate by Jesse Gallant</br><br><br>
 
-
-![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_rotated.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_AndyWarholImage.jpg)
-<br>Blended (f. Emma Watson), Rotated and Andy Warhol by Kathryn Wang</br><br><br>
+![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
+<br>Rotated, Andy Warhol and Blended (f. Emma Watson) by Kathryn Wang</br><br><br>
 
 ![Lauren Franco](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/laurenfranco_rainbowImage.jpg)
 <br>Rainbow by Lauren Franco</br><br><br>
