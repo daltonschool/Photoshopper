@@ -11,7 +11,9 @@ Image gallery of CS2 Photoshopper image effects.
 ![Brighten](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobr_brighten.jpg)
 ![Sepia](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeSepia.jpg)
 ![Shift](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shiftcolor.jpg)
-<br>Concatenate, Gray, Invert, Left Symmetry, Right Symmetry, Shrink, Brighten, Sepia, Shifted colors<br><br><br>
+![BW](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/bw.jpg)
+![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/shrunk.jpg)
+<br>Concatenate, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, and Shrunken<br><br><br>
 
 ## E Period Personalizations
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
