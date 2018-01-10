@@ -12,47 +12,35 @@ Image gallery of CS2 Photoshopper special effects.
 <br>Jacob Edelman</br><br><br>
 
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_contrast.jpg)
-<br>Jesse Gallant</br><br><br>
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_explode.jpg)
-<br>Jesse Gallant</br><br><br>
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_puzzle.jpg)
-<br>Jesse Gallant</br><br><br>
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_rotate.jpg)
-<br>Jesse Gallant</br><br><br>
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_swirl.jpg)
-<br>Jesse Gallant</br><br><br>
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_unswirl.jpg)
-<br>Jesse Gallant</br><br><br>
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_triangulate.jpg)
-<br>Jesse Gallant</br><br><br>
+<br>Contrast, Explode, Puzzle, Rotate, Swirl, Unswirl and Triangulate by Jesse Gallant</br><br><br>
 
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_AndyWarholImage.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_rotated.jpg)
-<br>Kathryn Wang</br><br><br>
+<br>Andy Warhol, Blended (f. Emma Watson) and Rotated by Kathryn Wang</br><br><br>
 
 ![Lauren Franco](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/laurenfranco_rainbowImage.jpg)
-<br>Kathryn Wang</br><br><br>
+<br>Rainbow by Lauren Franco</br><br><br>
 
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_blur.jpg)
-<br>Max Popick</br><br><br>
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_bright_40.0%.jpg)
-<br>Max Popick</br><br><br>
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_cropped_x_0-100_and_y_0-100.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_rotated_CCW.jpg)
-<br>Max Popick</br><br><br>
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_rotated_CW.jpg)
-<br>Max Popick</br><br><br>
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_shift_hue_180.0.jpg)
-<br>Max Popick</br><br><br>
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_x_flipped.jpg)
-<br>Max Popick</br><br><br>
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_y_flipped.jpg)
-<br>Max Popick</br><br><br>
+<br>Blur, Bright (40%), Cropped, Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick</br><br><br>
 
 
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
-<br>William Barkoff</br><br><br>
+<br>Face and Emotion Detection by William Barkoff</br><br><br>
 
 
 
