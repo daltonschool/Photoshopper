@@ -27,8 +27,8 @@ Image gallery of CS2 Photoshopper special effects.
 <br>Jesse Gallant</br><br><br>
 
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_AndyWarholImage.jpg)
-<br>Kathryn Wang</br><br><br>
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
+![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_rotated.jpg)
 <br>Kathryn Wang</br><br><br>
 
 ![Lauren Franco](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/laurenfranco_rainbowImage.jpg)
