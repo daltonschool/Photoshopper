@@ -11,6 +11,9 @@ Image gallery of CS2 Photoshopper special effects.
 ![Jacob Edelmann](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_redgreenbluescale.jpg)
 <br>Red-Green-Blue Scale by Jacob Edelman</br><br><br>
 
+![Jeremy Yarden](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jeremyyardencustom.jpg)
+<br>Custom by Jeremy Yarden</br><br><br>
+
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_contrast.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_explode.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_puzzle.jpg)
