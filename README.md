@@ -3,13 +3,13 @@ Image gallery of CS2 Photoshopper special effects.
 
 ## E Period 
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
-<br>Dagny Patton</br><br><br>
+<br>Personalized by Dagny Patton</br><br><br>
 
 ![Deen Hussain](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/deenhussain_custom.jpg)
-<br>Deen Hussain</br><br><br>
+<br>Custom by Deen Hussain</br><br><br>
 
 ![Jacob Edelmann](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_redgreenbluescale.jpg)
-<br>Jacob Edelman</br><br><br>
+<br>Red-Green-Blue Scale by Jacob Edelman</br><br><br>
 
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_contrast.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_explode.jpg)
@@ -30,13 +30,13 @@ Image gallery of CS2 Photoshopper special effects.
 
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_blur.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_bright_40.0%.jpg)
-![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_cropped_x_0-100_and_y_0-100.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_rotated_CCW.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_rotated_CW.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_shift_hue_180.0.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_x_flipped.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_y_flipped.jpg)
-<br>Blur, Bright (40%), Cropped, Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick</br><br><br>
+![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_cropped_x_0-100_and_y_0-100.jpg)
+<br>Blur, Bright (40%), Rotated CCW, Rotated CW, Shift Hue 180, X-flipped, Y-flipped and Cropped by Max Popick</br><br><br>
 
 
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
