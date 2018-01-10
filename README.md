@@ -6,7 +6,7 @@ Image gallery of CS2 Photoshopper special effects.
 <br>Dagny Patton
 
 ![Deen Hussain](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/deenhussain_custom.jpg)
-Deen Hussain
+<br>Deen Hussain
 
 ![Jacob Edelmann](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_redgreenbluescale.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_contrast.jpg)
