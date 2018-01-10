@@ -11,9 +11,9 @@ Image gallery of CS2 Photoshopper image effects.
 ![Sepia](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeSepia.jpg)
 ![Shift](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shiftcolor.jpg)
 ![BW](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/bw.jpg)
-![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/shrunk.jpg)
 ![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
-<br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shrunken and Concatenated<br><br><br>
+![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/shrunk.jpg)
+<br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, and Concatenated and Shruken<br><br><br>
 
 ## E Period Personalizations
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
@@ -54,6 +54,9 @@ Image gallery of CS2 Photoshopper image effects.
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_x_flipped.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_y_flipped.jpg)
 <br>Cropped, Blur, Bright (40%), Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick<br><br><br>
+
+![Theo Strauss](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/theo_photoBoothed.png)
+<br>Photo Booth by Theo Strauss<br><br><br>
 
 
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
