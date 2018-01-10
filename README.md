@@ -8,8 +8,8 @@ Image gallery of CS2 Photoshopper image effects.
 ![Left](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeLeftSym.jpg)
 ![Right](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeRightSym.jpg)
 ![Shrink](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shrink.jpg)
-![Brighten](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_brighten.jpg)
-![Sepia](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_sepia.jpg)
+![Brighten](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobr_brighten.jpg)
+![Sepia](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeSepia.jpg)
 ![Shift](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shiftcolor.jpg)
 <br>Concatenate, Gray, Invert, Left Symmetry, Right Symmetry, Shrink, Brighten, Sepia, Shifted colors<br><br><br>
 
