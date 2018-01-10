@@ -5,6 +5,6 @@
 Image gallery of CS2 Photoshopper project.
 
 ## E Period
-- [Dagny Patton](_PS_CS2_E_effects/dagneypatton_personalized.jpg)
+![Dagny Patton](_PS_CS2_E_effects/dagneypatton_personalized.jpg)
 
 ![Banner](https://daltonschool.github.io/ImageEffectsProject/banner.png)
