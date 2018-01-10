@@ -2,8 +2,10 @@
 Image gallery of CS2 Photoshopper special effects.
 
 ## E Period 
+<figure>
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
 <figcaption>Dagny Patton</figcaption><br><br>
+</figure>
 
 ![Deen Hussain](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/deenhussain_custom.jpg)
 <figcaption>Deen Hussain</figcaption><br><br>
