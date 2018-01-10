@@ -2,7 +2,6 @@
 Image gallery of CS2 Photoshopper image effects.
 
 ## Required Effects
-![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
 ![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_gray.jpg)
 ![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_invertColors.jpg)
 ![Left](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeLeftSym.jpg)
@@ -12,7 +11,8 @@ Image gallery of CS2 Photoshopper image effects.
 ![Shift](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shiftcolor.jpg)
 ![BW](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/bw.jpg)
 ![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/shrunk.jpg)
-<br>Concatenate, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, and Shrunken<br><br><br>
+![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
+<br>Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shrunken and Concatenated<br><br><br>
 
 ## E Period Personalizations
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
