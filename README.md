@@ -1,7 +1,7 @@
 ## CS2 Winter 2017/18
 Image gallery of CS2 Photoshopper image effects.
 
-## Required Effects
+# Required Effects
 ![Copy](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jergens_new.jpg)
 ![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_gray.jpg)
 ![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_invertColors.jpg)
@@ -11,11 +11,12 @@ Image gallery of CS2 Photoshopper image effects.
 ![Sepia](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeSepia.jpg)
 ![Shift](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shiftcolor.jpg)
 ![BW](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/bw.jpg)
-![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
 ![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/shrunk.jpg)
-<br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, and Concatenated and Shruken<br><br><br>
+![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
+<br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shruken and Concatenated<br><br><br>
 
-## E Period Personalizations
+# Personalizations
+## E Period 
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
 <br>Personalized by Dagny Patton<br><br><br>
 
@@ -28,14 +29,14 @@ Image gallery of CS2 Photoshopper image effects.
 ![Jeremy Yarden](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jeremyyardencustom.jpg)
 <br>Custom by Jeremy Yarden<br><br><br>
 
+![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_triangulate.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_contrast.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_explode.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_puzzle.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_rotate.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_swirl.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_unswirl.jpg)
-![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_triangulate.jpg)
-<br>Contrast, Explode, Puzzle, Rotate, Swirl, Unswirl and Triangulate by Jesse Gallant<br><br><br>
+<br>Triangulate, Contrast, Explode, Puzzle, Rotate, Swirl and Unswirl by Jesse Gallant<br><br><br>
 
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_rotated.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
@@ -55,7 +56,7 @@ Image gallery of CS2 Photoshopper image effects.
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_y_flipped.jpg)
 <br>Cropped, Blur, Bright (40%), Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick<br><br><br>
 
-![Theo Strauss](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/theo_photoBoothed.png)
+![Theo Strauss](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/theo_photoBoothed.jpg)
 <br>Photo Booth by Theo Strauss<br><br><br>
 
 
