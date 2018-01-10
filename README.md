@@ -56,6 +56,9 @@ Image gallery of CS2 Photoshopper image effects.
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_y_flipped.jpg)
 <br>Cropped, Blur, Bright (40%), Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick<br><br><br>
 
+![Oliver Schlesinger](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/oliver.jpg)
+<br>Untitled by Oliver Schlesinger<br><br><br>
+
 ![Theo Strauss](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/theo_photoBoothed.jpg)
 <br>Photo Booth by Theo Strauss<br><br><br>
 
