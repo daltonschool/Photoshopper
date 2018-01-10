@@ -1,7 +1,19 @@
 ## CS2 Winter 2017/18
-Image gallery of CS2 Photoshopper special effects.
+Image gallery of CS2 Photoshopper image effects.
 
-## E Period 
+## Required Effects
+![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
+![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_gray.jpg)
+![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_invertColors.jpg)
+![Left](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeLeftSym.jpg)
+![Right](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeRightSym.jpg)
+![Shrink](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shrink.jpg)
+![Brighten](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_brighten.jpg)
+![Sepia](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_sepia.jpg)
+![Shift](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_shiftcolor.jpg)
+<br>Concatenate, Gray, Invert, Left Symmetry, Right Symmetry, Shrink, Brighten, Sepia, Shifted colors<br><br><br>
+
+## E Period Personalizations
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
 <br>Personalized by Dagny Patton<br><br><br>
 
