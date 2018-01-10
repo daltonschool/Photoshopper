@@ -2,6 +2,7 @@
 Image gallery of CS2 Photoshopper image effects.
 
 ## Required Effects
+![Copy](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jergens_new.jpg)
 ![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_gray.jpg)
 ![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_invertColors.jpg)
 ![Left](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_makeLeftSym.jpg)
@@ -12,7 +13,7 @@ Image gallery of CS2 Photoshopper image effects.
 ![BW](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/bw.jpg)
 ![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/shrunk.jpg)
 ![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
-<br>Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shrunken and Concatenated<br><br><br>
+<br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shrunken and Concatenated<br><br><br>
 
 ## E Period Personalizations
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
