@@ -21,9 +21,9 @@ Image gallery of CS2 Photoshopper special effects.
 <br>Contrast, Explode, Puzzle, Rotate, Swirl, Unswirl and Triangulate by Jesse Gallant</br><br><br>
 
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_rotated.jpg)
-![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_AndyWarholImage.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
-<br>Rotated, Andy Warhol and Blended (f. Emma Watson) by Kathryn Wang</br><br><br>
+![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_AndyWarholImage.jpg)
+<br>Rotated, Blended (f. Emma Watson) and Andy Warhol by Kathryn Wang</br><br><br>
 
 ![Lauren Franco](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/laurenfranco_rainbowImage.jpg)
 <br>Rainbow by Lauren Franco</br><br><br>
@@ -40,7 +40,7 @@ Image gallery of CS2 Photoshopper special effects.
 
 
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
-<br>Face and Emotion Detection by William Barkoff</br><br><br>
+<br>Emotion Detection by William Barkoff</br><br><br>
 
 
 
