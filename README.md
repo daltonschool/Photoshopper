@@ -22,6 +22,27 @@ Image gallery of CS2 Photoshopper image effects.
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_swirl.jpg)
 <br>Square Array, Blur and Swirl by Alex Min<br><br><br> 
 
+## D Period
+![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexsesh_personalization.jpeg)
+<br>Untitled by Alex Sesh<br><br>
+
+![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakedurando_ShrinkPic.jpg)
+![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakedurando_Warhol.jpg)
+<br>Untitled and Warhol by Jake Durando<br><br>
+
+![Justin Benjamin](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justinbenjamin_blur.jpg)
+<br>Blur by Justin Benjamin<br><br>
+
+![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/leylak_greentint.jpg)
+![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/leylak_merryChristmas.jpg)
+<br>Green tint and Merry Christmas by Leyla Kramansky<br><br>
+
+![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/rebeccaedelman_brighten.jpg)
+![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/rebeccaedelman_shiftedColors_custom.jpg)
+![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/rebeccaedelmangrayscale_50%.jpg)
+<br>Untitled, Shifted colors (custom setting) and Grayscale (custom setting, 50% shown here) by Rebecca Edelman<br><br>
+
+
 ## E Period 
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
 <br>Untitled by Dagny Patton<br><br><br>
