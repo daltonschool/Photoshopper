@@ -26,9 +26,9 @@ Image gallery of CS2 Photoshopper image effects.
 ![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/alexsesh_personalization.jpeg)
 <br>Untitled by Alex Sesh<br><br>
 
-![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_ShrinkPic.jpg)
 ![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_Warhol.png)
-<br>Untitled and Warhol by Jake Durando<br><br>
+![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_ShrinkPic.jpg)
+<br>Warhol and Untitled by Jake Durando<br><br>
 
 ![Justin Benjamin](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/justinbenjamin_blur.jpg)
 <br>Blur by Justin Benjamin<br><br>
@@ -37,10 +37,10 @@ Image gallery of CS2 Photoshopper image effects.
 ![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/leylak_merryChristmas.jpg)
 <br>Green tint and Merry Christmas by Leyla Kramansky<br><br>
 
-![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_brighten.jpg)
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_shiftedColors_custom.jpg)
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelmangrayscale_50%.jpg)
-<br>Untitled, Custom Shifted colors (grb shown here) and Custom Grayscale (50% shown here) by Rebecca Edelman<br><br>
+![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_brighten.jpg)
+<br>Custom Shifted colors (grb shown here), Custom Grayscale (50% shown here) and Bright by Rebecca Edelman<br><br>
 
 
 ## E Period 
