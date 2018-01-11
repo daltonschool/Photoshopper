@@ -62,9 +62,11 @@ Image gallery of CS2 Photoshopper image effects.
 ![Theo Strauss](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/theo_photoBoothed.jpg)
 <br>Photo Booth by Theo Strauss<br><br><br>
 
-
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
 <br>Emotion Detection by William Barkoff<br><br><br>
+
+![William Ricci](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/seuratcopy.jpg)
+<br>Seurat by William Ricci<br><br><br>
 
 
 
