@@ -18,16 +18,16 @@ Image gallery of CS2 Photoshopper image effects.
 # Personalizations
 ## E Period 
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
-<br>Personalized by Dagny Patton<br><br><br>
+<br>Untitled by Dagny Patton<br><br><br>
 
 ![Deen Hussain](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/deenhussain_custom.jpg)
-<br>Custom by Deen Hussain<br><br><br>
+<br>Untitled by Deen Hussain<br><br><br>
 
 ![Jacob Edelmann](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_redgreenbluescale.jpg)
-<br>Red-Green-Blue Scale by Jacob Edelman<br><br><br>
+<br>RedGreenBlue Scale by Jacob Edelman<br><br><br>
 
 ![Jeremy Yarden](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jeremyyardencustom.jpg)
-<br>Custom by Jeremy Yarden<br><br><br>
+<br>Untitled by Jeremy Yarden<br><br><br>
 
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_triangulate.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_contrast.jpg)
