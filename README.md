@@ -16,6 +16,12 @@ Image gallery of CS2 Photoshopper image effects.
 <br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shruken and Concatenated<br><br><br>
 
 # Personalizations
+## B Period
+![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_blur.jpg)
+![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_squareArray.jpg)
+![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_swirl.jpg)
+<br>Blur, Square Array and Swirl by Alex Min<br><br><br> 
+
 ## E Period 
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
 <br>Untitled by Dagny Patton<br><br><br>
