@@ -23,18 +23,18 @@ Image gallery of CS2 Photoshopper image effects.
 <br>Square Array, Blur and Swirl by Alex Min<br><br><br> 
 
 ## D Period
-![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexsesh_personalization.jpeg)
+![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/alexsesh_personalization.jpeg)
 <br>Untitled by Alex Sesh<br><br>
 
-![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakedurando_ShrinkPic.jpg)
-![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakedurando_Warhol.jpg)
+![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_ShrinkPic.jpg)
+![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_Warhol.jpg)
 <br>Untitled and Warhol by Jake Durando<br><br>
 
-![Justin Benjamin](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justinbenjamin_blur.jpg)
+![Justin Benjamin](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/justinbenjamin_blur.jpg)
 <br>Blur by Justin Benjamin<br><br>
 
-![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/leylak_greentint.jpg)
-![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/leylak_merryChristmas.jpg)
+![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/leylak_greentint.jpg)
+![Leyla Kramansky](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/leylak_merryChristmas.jpg)
 <br>Green tint and Merry Christmas by Leyla Kramansky<br><br>
 
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/rebeccaedelman_brighten.jpg)
