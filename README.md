@@ -17,10 +17,10 @@ Image gallery of CS2 Photoshopper image effects.
 
 # Personalizations
 ## B Period
+![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_squareArray.jpg)
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_blur.jpg)
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_swirl.jpg)
-![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_squareArray.jpg)
-<br>Blur, Swirl and Square Array by Alex Min<br><br><br> 
+<br>Square Array, Blur and Swirl by Alex Min<br><br><br> 
 
 ## E Period 
 ![Dagny Patton](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/dagneypatton_personalized.jpg)
