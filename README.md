@@ -18,9 +18,9 @@ Image gallery of CS2 Photoshopper image effects.
 # Personalizations
 ## B Period
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_squareArray.jpg)
-![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_blur.jpg)
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_swirl.jpg)
-<br>Square Array, Blur and Swirl by Alex Min<br><br><br> 
+![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_blur.jpg)
+<br>Square Array, Swirl and Blur by Alex Min<br><br><br> 
 
 ## D Period
 ![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/alexsesh_personalization.jpeg)
@@ -40,7 +40,7 @@ Image gallery of CS2 Photoshopper image effects.
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_brighten.jpg)
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_shiftedColors_custom.jpg)
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelmangrayscale_50%.jpg)
-<br>Untitled, Shifted colors (custom setting) and Grayscale (custom setting, 50% shown here) by Rebecca Edelman<br><br>
+<br>Untitled, Custom Shifted colors (grb shown here) and Custom Grayscale (50% shown here) by Rebecca Edelman<br><br>
 
 
 ## E Period 
