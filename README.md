@@ -65,7 +65,7 @@ Image gallery of CS2 Photoshopper image effects.
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
 <br>Emotion Detection by William Barkoff<br><br><br>
 
-![William Ricci](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/seuratcopy.jpg)
+![William Ricci](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/seuratcopy.JPG)
 <br>Seurat by William Ricci<br><br><br>
 
 
