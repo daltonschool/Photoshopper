@@ -1,7 +1,7 @@
 ## CS2 Winter 2017/18
 Image gallery of CS2 Photoshopper image effects.
 
-# Required Effects
+# Basic Effects
 ![Copy](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jergens_new.jpg)
 ![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_gray.jpg)
 ![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_invertColors.jpg)
@@ -15,7 +15,7 @@ Image gallery of CS2 Photoshopper image effects.
 ![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jacobe_concatenate.jpg)
 <br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shruken and Concatenated<br><br><br>
 
-# Personalizations
+# Special Effects
 ## B Period
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_squareArray.jpg)
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_swirl.jpg)
