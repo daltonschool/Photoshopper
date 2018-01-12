@@ -1,6 +1,6 @@
 ## CS2 Winter 2017/18
 Image gallery of CS2 Photoshopper image effects.
-[B Period](## B Period)
+[B Period](#B-Period)
 
 # Basic Effects
 ![Copy](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jergens_new.jpg)
