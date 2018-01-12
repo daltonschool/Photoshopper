@@ -19,7 +19,18 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_squareArray.jpg)
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_swirl.jpg)
 ![Alex Min](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/alexmin_blur.jpg)
-<br>Square Array, Swirl and Blur by Alex Min<br><br><br> 
+<br>Squared Array, Swirled and Blurred by Alex Min<br><br><br> 
+
+![Dylan Hale](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/dylanhale_freaky.jpg)
+<br>Freaky by Dylan Hale<br><br><br> 
+
+![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_hanson_rainbowme.jpg)
+![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_purpleInvertedMe.jpg)
+![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_purpleMe.jpg)
+![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_shiftedMe2.jpg)
+![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_yellowInvertMe.jpg)
+![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_yellowMe.jpg)
+<br>Rainbow, Purple inverted, Purple, Shifted 2, Yellow inverted, Yellow by Kai Hanson<br><br><br> 
 
 ## D Period
 ![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/alexsesh_personalization.jpeg)
