@@ -28,8 +28,8 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Jake E](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakee_dotpic.jpg)
 <br>Warhol and Dotpic by Jake Ehrenkranz<br><br><br> 
 
-![Justin Taub](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justintaub_shiftColors.jpg)
-![Justin Taub](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justintaub.jpg)
+![Justin Taub](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justintaub_shiftColors.JPG)
+![Justin Taub](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justintaub.JPG)
 <br>Untitled and Untitled by Justin Taub<br><br><br> 
 
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_hanson_rainbowMe.jpg)
