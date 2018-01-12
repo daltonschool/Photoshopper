@@ -28,6 +28,10 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Jake E](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakee_dotpic.jpg)
 <br>Warhol and Dotpic by Jake Ehrenkranz<br><br><br> 
 
+![Justin Taub](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justintaub_shiftColors.jpg)
+![Justin Taub](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/justintaub.jpg)
+<br>Untitled and Untitled by Justin Taub<br><br><br> 
+
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_hanson_rainbowMe.jpg)
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kaihanson_rainbowInvertedMe.jpg)
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_purpleInvertedMe.jpg)
@@ -40,7 +44,7 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Manon Astier](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/manon_shiftColors2_photo.jpg)
 ![Manon Astier](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/manon_warhol_photo.jpg)
 ![Manon Astier](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/manon_wb_photo.jpg)
-<br>Shift colors2, Warhol, White&Black by Manon Astier<br><br><br> 
+<br>Shift colors 2, Warhol, White&Black by Manon Astier<br><br><br> 
 
 
 ## D Period
