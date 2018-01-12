@@ -41,7 +41,7 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_yellowMe.jpg)
 <br>Rainbow, Rainbow inverted, Purple inverted, Purple, Shifted 2, Yellow inverted, Yellow by Kai Hanson<br><br><br> 
 
-![Lucy Kronenberg](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/Photoshopper/_PS_CS2_B_effects/jergens_warhol.jpg)
+![Lucy Kronenberg](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jergens_warhol.jpg)
 <br>Warhol by Lucy Kronenberg<br><br><br> 
 
 ![Manon Astier](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/manon_shiftColors2_photo.jpg)
