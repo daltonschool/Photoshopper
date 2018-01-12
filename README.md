@@ -24,6 +24,10 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Dylan Hale](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/dylanhale_freaky.jpg)
 <br>Freaky by Dylan Hale<br><br><br> 
 
+![Jake E](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakee_Warhol.jpg)
+![Jake E](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/jakee_dotpic.jpg)
+<br>Warhol and Dotpic by Jake Ehrenkratz<br><br><br> 
+
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_hanson_rainbowMe.jpg)
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kaihanson_rainbowInvertedMe.jpg)
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_purpleInvertedMe.jpg)
