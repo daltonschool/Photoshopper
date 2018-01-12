@@ -63,12 +63,12 @@ Image gallery of CS2 Photoshopper image effects.
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_rotate.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_swirl.jpg)
 ![Jesse Gallant](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/jessegallant_unswirl.jpg)
-<br>Triangulate, Contrast, Explode, Puzzle, Rotate, Swirl and Unswirl by Jesse Gallant<br><br><br>
+<br>Triangulated, Contrasted, Exploded, Puzzle, Rotated, Swirled and Unswirled by Jesse Gallant<br><br><br>
 
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_rotated.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_blendedImage.jpg)
 ![Kathryn Wang](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/kathrynwang_AndyWarholImage.jpg)
-<br>Rotated, Blended (f. Emma Watson) and Andy Warhol by Kathryn Wang<br><br><br>
+<br>Randomly Rotated, Blended (f. Emma Watson) and Andy Warhol by Kathryn Wang<br><br><br>
 
 ![Lauren Franco](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/laurenfranco_rainbowImage.jpg)
 <br>Rainbow by Lauren Franco<br><br><br>
@@ -81,7 +81,7 @@ Image gallery of CS2 Photoshopper image effects.
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_shift_hue_180.0.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_x_flipped.jpg)
 ![Max Popick](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/maxpopick_jergens_y_flipped.jpg)
-<br>Cropped, Blur, Bright (40%), Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick<br><br><br>
+<br>Cropped, Blurred, Custom Brightened (shown here at 40%), Rotated CCW, Rotated CW, Shift Hue 180, X-flipped and Y-flipped by Max Popick<br><br><br>
 
 ![Oliver Schlesinger](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/oliver.jpg)
 <br>Untitled by Oliver Schlesinger<br><br><br>
@@ -90,6 +90,8 @@ Image gallery of CS2 Photoshopper image effects.
 <br>Photo Booth by Theo Strauss<br><br><br>
 
 ![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/williambarkoff_faceemotiondetection.png)
+![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/faces (1).png)
+![William Barkoff](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/faces.png)
 <br>Emotion Detection by William Barkoff<br><br><br>
 
 ![William Ricci](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_E_effects/seuratcopy.JPG)
