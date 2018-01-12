@@ -26,8 +26,7 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 <br>Untitled by Alex Sesh<br><br>
 
 ![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_Warhol.png)
-![Jake Durando](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/jakedurando_ShrinkPic.jpg)
-<br>Warhol and Untitled by Jake Durando<br><br>
+<br>Warhol by Jake Durando<br><br>
 
 ![Justin Benjamin](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/justinbenjamin_blur.jpg)
 <br>Blur by Justin Benjamin<br><br>
@@ -38,8 +37,7 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_shiftedColors_custom.jpg)
 ![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelmangrayscale_50%.jpg)
-![Rebecca Edelman](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/rebeccaedelman_brighten.jpg)
-<br>Custom Shifted colors (grb shown here), Custom Grayscale (50% shown here) and Bright by Rebecca Edelman<br><br>
+<br>Custom Shifted colors (grb shown here), Custom Grayscale (50% shown here) by Rebecca Edelman<br><br>
 
 
 ## E Period 
