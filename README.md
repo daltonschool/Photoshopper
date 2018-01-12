@@ -31,7 +31,7 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_shiftedMe2.jpg)
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_yellowInvertMe.jpg)
 ![Kai Hanson](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_B_effects/kai_yellowMe.jpg)
-<br>Rainbow, Purple inverted, Purple, Shifted 2, Yellow inverted, Yellow by Kai Hanson<br><br><br> 
+<br>Rainbow, Rainbow inverted, Purple inverted, Purple, Shifted 2, Yellow inverted, Yellow by Kai Hanson<br><br><br> 
 
 ## D Period
 ![Alex Sesh](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/_PS_CS2_D_effects/alexsesh_personalization.jpeg)
