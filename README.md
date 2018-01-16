@@ -17,17 +17,17 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 
 ## City example
 <figure>
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/copy.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/grayMe.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/invertMe.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/leftSym.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/rightSym.jpg" width=350 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/copy.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/grayMe.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/invertMe.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/leftSym.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/rightSym.jpg" width=450 />
 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shrinkMe.jpg" width=175 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/bwMe.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/doubleImage.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/doubleImage.jpg" width=350 />
-<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shiftedMe.jpg" width=350 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/bwMe.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/doubleImage.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/sepiaMe.jpg" width=450 />
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shiftedMe.jpg" width=450 />
 <figcaption>Copy, Brighten, Gray, Inverted, Left Symmetry, Right Symmetry, Shrink, Black&White, Concatenate, Sepia, Shifted</figcaption>
 </figure>
 
