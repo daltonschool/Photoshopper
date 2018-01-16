@@ -1,3 +1,9 @@
+<style>
+figure {
+	display: inline-block;
+	margin-bottom: 40px;
+}
+</style>
 CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 
 # Basic Effects
