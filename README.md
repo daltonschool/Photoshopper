@@ -1,6 +1,7 @@
 CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 
 # Basic Effects
+## Face example
 ![Copy](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jergens_new.jpg)
 ![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_gray.jpg)
 ![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_invertColors.jpg)
@@ -13,6 +14,15 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![Shrunk](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/shrunk.jpg)
 ![Concat](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_concatenate.jpg)
 <br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shruken and Concatenated<br><br><br>
+
+## City example
+![Brighten](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg)
+![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/grayMe.jpg)
+![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/invertMe.jpg)
+![Left](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/leftSym.jpg)
+![Right](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/rightSym.jpg)
+![Shrink](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shrinkMe.jpg)
+![BW](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/bwMe.jpg)
 
 # Special Effects
 ## B Period
