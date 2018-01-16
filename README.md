@@ -1,9 +1,13 @@
+<html>
+<head>
 <style>
 figure {
 	display: inline-block;
 	margin-bottom: 40px;
 }
 </style>
+</head>
+<body>
 CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 
 # Basic Effects
@@ -187,5 +191,5 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 ![William Ricci](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/seuratcopy.JPG)
 <br>Seurat by William Ricci<br><br><br>
 
-
-
+</body>
+</html>
