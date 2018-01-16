@@ -16,7 +16,7 @@ CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
 <br>Copy, Grayscale, Inverted, Left Symmetry, Right Symmetry, Brighten, Sepia, Shifted colors, Black and White, Shruken and Concatenated<br><br><br>
 
 ## City example
-![Brighten](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg=250x)
+<img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg" width=250>
 ![Gray](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/grayMe.jpg)
 ![Invert](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/invertMe.jpg)
 ![Left](https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/leftSym.jpg)
