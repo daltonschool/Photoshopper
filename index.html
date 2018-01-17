@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Simple Sidebar - Start Bootstrap Template</title>
+    <title>Photoshopper</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,6 +18,10 @@
 
     <style>
 
+    .examples {
+    	margin: 50px 0px;
+    }
+
     .examples figure {
         display: inline-block;
         margin: 5px;
@@ -25,7 +29,7 @@
 
     .examples figure img {
         height: 220px;
-        margin: 1px;
+        zmargin-right: 1px;
     }
 
     .examples figure.shrink img {
@@ -58,50 +62,44 @@
 
 <body>
 
-    <div id="wrapper">
+    <div id="wrapper" class="toggled">
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    <a href="#">
-                        Start Bootstrap
+                    <a href="#top">
+                        PhotoShopper
                     </a>
                 </li>
                 <li>
-                    <a href="#">Dashboard</a>
+                    <a href="#top">Basic Effects</a>
                 </li>
                 <li>
-                    <a href="#">Shortcuts</a>
+                    <a href="#b">Section B Effects</a>
                 </li>
                 <li>
-                    <a href="#">Overview</a>
+                    <a href="#d">Section D Effects</a>
                 </li>
                 <li>
-                    <a href="#">Events</a>
+                    <a href="#e">Section E Effects</a>
                 </li>
-                <li>
-                    <a href="#">About</a>
-                </li>
-                <li>
-                    <a href="#">Services</a>
-                </li>
-                <li>
-                    <a href="#">Contact</a>
-                </li>
+              
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
 
         <!-- Page Content -->
         <div id="page-content-wrapper">
-            <div class="container-fluid">
+            <div class="container-fluid" id="top">
                 CS2 Winter 2017/18: Image gallery of CS2 Photoshopper image effects.
+                <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Toggle Menu</a>
 
-                <h1> Basic Effects</h1>
+                <h1 id="basic"> Basic Effects</h1>
                 <div class="examples">
                 <figure>
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jergens_new.jpg"  /><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/copy.jpg"/>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jergens_new.jpg"  />
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/copy.jpg"/>
                 <figcaption>Copy</figcaption>
                 </figure>
 
@@ -166,8 +164,7 @@
                 </figure>
                 </div>
 
-                <h1> Special Effects</h1>
-                <h2>B Period</h2>
+                <h1 id="b">Section B Effects</h1>
 
                 <div class="examples">
                 <figure class="large">
@@ -203,8 +200,6 @@
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/jakee_dotpic.jpg"  />
                 <figcaption>Dotpic by Jake Ehrenkranz</figcaption>
                 </figure>
-
-
 
                 <br>
 
@@ -283,7 +278,7 @@
                 </div>
 
                 <div class="examples">
-                <h2>D Period</h2>
+                <h1 id="d">Section D Effects</h1>
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/alexsesh_personalization.jpeg">
                 <figcaption>Untitled by Alex Sesh</figcaption></figure>
 
@@ -312,7 +307,7 @@
                 </div>
 
 
-                <h2> E Period </h2>
+                <h1 id="e"> Section E Effects</h1>
 
                 <div class="examples">
                 <figure class="large"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/dagneypatton_personalized.jpg"><figcaption>Untitled by Dagny Patton</figcaption></figure>
@@ -350,7 +345,6 @@
                 <figure class="large"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/laurenfranco_rainbowImage.jpg"><figcaption>Rainbox by Lauren Franco</figcaption></figure>
 
                 <br>
-
 
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_blur.jpg"><figcaption>Blur by Max Popick</figcaption></figure>
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_bright_40.0%.jpg"><figcaption>40% Bright by Max Popick</figcaption></figure>
