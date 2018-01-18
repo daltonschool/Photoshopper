@@ -5,7 +5,14 @@
  */
 
 body {
-  overflow-x: hidden;
+  xoverflow-x: hidden;
+}
+
+#menu-toggle {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 2000;
 }
 
 #wrapper {
