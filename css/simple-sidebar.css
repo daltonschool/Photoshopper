@@ -4,9 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)
  */
 
-body {
-  xoverflow-x: hidden;
-}
 
 #menu-toggle {
   position: fixed;
