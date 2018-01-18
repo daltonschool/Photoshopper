@@ -10,6 +10,7 @@
 
     <title>Photoshopper</title>
 
+
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -18,7 +19,7 @@
 
     <style>
     .separator {
-        margin: 200px 0;
+        margin: 100px 0;
     }
 
     .examples {
@@ -31,27 +32,26 @@
     }
 
     .examples figure img {
-        height: 220px;
-        zmargin-right: 1px;
+        max-height: 450px;
     }
 
-    .examples figure.shrink img {
+    .zexamples figure.shrink img {
         height: 110px;
     }
 
-    .examples figure.large img {
-        height: 380px;
+    .zexamples figure.large img {
+        height: 400px;
     }
 
-    .examples figure.medium img {
+    .zexamples figure.medium img {
         height: 320px;
     }
 
     .examples figure.photobooth img {
-        height: 880px;
+        max-height: 900px;
     }
 
-    .examples figure.crop img {
+    .zexamples figure.crop img {
         height: 110px;
     }
 
@@ -64,7 +64,6 @@
 </head>
 
 <body>
-
     <div id="wrapper" class="toggled">
 
         <!-- Sidebar -->
@@ -102,66 +101,124 @@
                 <div class="examples">
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jergens_new.jpg"  />
+               
+                <figcaption>Copy</figcaption>
+                </figure>
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/copy.jpg"/>
                 <figcaption>Copy</figcaption>
                 </figure>
 
+                <br>
+
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_gray.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/grayMe.jpg"/>
                 <figcaption>Grayscale</figcaption>
                 </figure>
 
                 <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/grayMe.jpg"/>
+                <figcaption>Grayscale</figcaption>
+                </figure>
+
+                <br>
+
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_invertColors.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/invertMe.jpg"/>
                 <figcaption>Inverted</figcaption>
                 </figure>
 
                 <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/invertMe.jpg"/>
+                <figcaption>Inverted</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobr_brighten.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg" />
                 <figcaption>Brighten</figcaption>
                 </figure>
 
                 <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/brighterMe.jpg" />
+                <figcaption>Brighten</figcaption>
+                </figure>
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_makeLeftSym.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/leftSym.jpg" />
                 <figcaption>Left Symmetry</figcaption>
                 </figure>
 
                 <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/leftSym.jpg" />
+                <figcaption>Left Symmetry</figcaption>
+                </figure>
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_makeRightSym.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/rightSym.jpg" />
                 <figcaption>Right Symmetry</figcaption>
                 </figure>
 
                 <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/rightSym.jpg" />
+                <figcaption>Right Symmetry</figcaption>
+                </figure>
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_makeSepia.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/sepiaMe.jpg" />
                 <figcaption>Sepia</figcaption>
                 </figure>
 
                 <figure>
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_shiftcolor.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shiftedMe.jpg" />
-                <figcaption>Shifted</figcaption>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/sepiaMe.jpg" />
+                <figcaption>Sepia</figcaption>
                 </figure>
+                <br>
+
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_shiftcolor.jpg"  />
+                <figcaption>Color Shifted</figcaption>
+                </figure>
+
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shiftedMe.jpg" />
+                <figcaption>Color Shifted</figcaption>
+                </figure>
+                <br>
 
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/bw.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/bwMe.jpg" />
                 <figcaption>Black and White</figcaption>
                 </figure>
 
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/bwMe.jpg" />
+                <figcaption>Black and White</figcaption>
+                </figure>
+                <br>
+
                 <figure class="shrink">
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/shrunk.jpg"  />
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shrinkMe.jpg" />
                 <figcaption>Shrink</figcaption>
                 </figure>
 
+                <figure class="shrink">
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/shrinkMe.jpg" />
+                <figcaption>Shrink</figcaption>
+                </figure>
+                <br>
+
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_concatenate.jpg"  />
+                <figcaption>Concatenate</figcaption>
+                </figure>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/basic_city/doubleImage.jpg"/>
                 <figcaption>Concatenate</figcaption>
                 </figure>
@@ -176,12 +233,31 @@
                 </figure>
 
                 <figure>
+                <img src="B_face/am_custom2.jpg"  />
+                <figcaption>Square array by Alex Min</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/alexmin_swirl.jpg"  />
                 <figcaption>Swirl by Alex Min</figcaption>
                 </figure>
 
                 <figure>
+                <img src="B_face/am_custom3.jpg"  />
+                <figcaption>Swirl by Alex Min</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/alexmin_blur.jpg"  />
+                <figcaption>Blur by Alex Min</figcaption>
+                </figure>
+
+                <figure>
+                <img src="B_face/am_custom1.jpg"  />
                 <figcaption>Blur by Alex Min</figcaption>
                 </figure>
 
@@ -192,15 +268,30 @@
                 <figcaption>Freaky by Dylan Hale</figcaption>
                 </figure>
 
+                <figure>
+                <img src="B_face/dh_custom.jpg"  />
+                <figcaption>Freaky by Dylan Hale</figcaption>
+                </figure>
+
                 <div class="separator"></div>
 
-                <figure class="large">
+                <figure >
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/jakee_Warhol.jpg"  />
+                <figcaption>Warhol by Jake Ehrenkranz</figcaption>
+                </figure>
+
+                <figure >
+                <img src="B_face/je_custom1.jpg"  />
                 <figcaption>Warhol by Jake Ehrenkranz</figcaption>
                 </figure>
 
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/jakee_dotpic.jpg"  />
+                <figcaption>Dotpic by Jake Ehrenkranz</figcaption>
+                </figure>
+
+                <figure>
+                <img src="B_face/je_custom2.jpg"  />
                 <figcaption>Dotpic by Jake Ehrenkranz</figcaption>
                 </figure>
 
@@ -211,8 +302,21 @@
                 <figcaption>Untitled by Justin Taub</figcaption>
                 </figure>
 
+
+                <figure>
+                <img src="B_face/jt_custom2.jpg"  />
+                <figcaption>Untitled by Justin Taub</figcaption>
+                </figure>
+
+                <br>
+
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/justintaub.JPG"  />
+                <figcaption>Untitled by Justin Taub</figcaption>
+                </figure>
+
+                <figure>
+                <img src="B_face/jt_custom1.jpg"  />
                 <figcaption>Untitled by Justin Taub</figcaption>
                 </figure>
 
@@ -224,14 +328,23 @@
                 </figure>
 
                 <figure>
+                <img src="B_face/kh_custom4.jpg"  />
+                <figcaption>Rainbow by Kai Hanson</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kaihanson_rainbowInvertedMe.jpg"  />
-                <figcaption>Rainbow-Inverted by Kai Hanson</figcaption>
+                <figcaption>Rainbow-Inv. by K. Hanson</figcaption>
                 </figure>
 
                 <figure>
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_purpleInvertedMe.jpg"  />
-                <figcaption>Purple-Inverted by Kai Hanson</figcaption>
+                <img src="B_face/kh_custom3.jpg"  />
+                <figcaption>Rainbow-Inverted by Kai Hanson</figcaption>
                 </figure>
+
+                <br>
 
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_purpleMe.jpg"  />
@@ -239,24 +352,56 @@
                 </figure>
 
                 <figure>
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_shiftedMe2.jpg"  />
-                <figcaption>Shifted2 by Kai Hanson</figcaption>
+                <img src="B_face/kh_custom2.jpg"  />
+                <figcaption>Purple by Kai Hanson</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_purpleInvertedMe.jpg"  />
+                <figcaption>Purple-Invt by K. Hanson</figcaption>
                 </figure>
 
                 <figure>
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_yellowInvertMe.jpg"  />
-                <figcaption>Yellow-Inverted by Kai Hanson</figcaption>
+                <img src="B_face/kh_custom1.jpg"  />
+                <figcaption>Purple-Inverted by Kai Hanson</figcaption>
                 </figure>
+
+                <br>
 
                 <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_yellowMe.jpg"  />
                 <figcaption>Yellow by Kai Hanson</figcaption>
                 </figure>
 
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_yellowInvertMe.jpg"  />
+                <figcaption>Yellow-Inv by K. Hanson</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/kai_shiftedMe2.jpg"  />
+                <figcaption>Shifted2 by Kai Hanson</figcaption>
+                </figure>
+
+                <figure>
+                <img src="B_face/kh_custom7.jpg"  />
+                <figcaption>Shifted2 by Kai Hanson</figcaption>
+                </figure>
+
+
                 <div class="separator"></div>
 
-                <figure class="large">
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/jergens_warhol.jpg"  />
+                <figcaption>Warhol by Lucy Kronenberg</figcaption>
+                </figure>
+
+                <figure>
+                <img src="B_face/lk_custom.jpg"  />
                 <figcaption>Warhol by Lucy Kronenberg</figcaption>
                 </figure>
 
@@ -268,14 +413,34 @@
                 </figure>
 
                 <figure>
+                <img src="B_face/ma_custom2.jpg"  />
+                <figcaption>Shift2 by Manon Astier</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
+                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/manon_wb_photo.jpg"  />
+                <figcaption>W&B by M. Astier</figcaption>
+                </figure>
+
+                <figure>
+                <img src="B_face/ma_custom1.jpg"  />
+                <figcaption>White and Black by Manon Astier</figcaption>
+                </figure>
+
+                <br>
+
+                <figure>
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/manon_warhol_photo.jpg"  />
                 <figcaption>Warhol by Manon Astier</figcaption>
                 </figure>
 
                 <figure>
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/B_face/manon_wb_photo.jpg"  />
-                <figcaption>White and Black by Manon Astier</figcaption>
+                <img src="B_face/ma_custom3.jpg"  />
+                <figcaption>Warhol by Manon Astier</figcaption>
                 </figure>
+
 
                 <div class="separator"></div>
                 </div>
@@ -285,9 +450,17 @@
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/alexsesh_personalization.jpeg">
                 <figcaption>Untitled by Alex Sesh</figcaption></figure>
 
+                <figure>
+                <img src="D_face/as_custom.jpg"  />
+                <figcaption>Untitled by Alex Sesh</figcaption></figure>
+
                 <div class="separator"></div>
 
-                <figure class="large"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/jakedurando_Warhol.png">
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/jakedurando_Warhol.png">
+                <figcaption>Warhol by Jake Durando</figcaption></figure>
+
+                <figure>
+                <img src="D_face/jd_custom.jpg"  />
                 <figcaption>Warhol by Jake Durando</figcaption></figure>
 
                 <div class="separator"></div>
@@ -295,16 +468,46 @@
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/justinbenjamin_blur.jpg">
                 <figcaption>Blur by Justin Benjamin</figcaption></figure>
 
+                <figure>
+                <img src="D_face/jb_custom.jpg"  />
+                <figcaption>Blur by Justin Benjamin</figcaption></figure>
+
                 <div class="separator"></div>
 
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/leylak_greentint.jpg"><figcaption>Green tint by Leyla Kramansky</figcaption></figure>
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/leylak_greentint.jpg">
+                <figcaption>Green tint by L. Kramansky</figcaption>
+                </figure>
+
+                <figure>
+                <img src="D_face/lk_custom2.jpg"  />
+                <figcaption>Green tint by Leyla Kramansky</figcaption>
+                </figure>
+
+
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/leylak_merryChristmas.jpg">
+                <figcaption>Merry Xmas by L. Kramansky</figcaption></figure>
+
+                <figure>
+                <img src="D_face/lk_custom.jpg"  />
                 <figcaption>Merry Christmas by Leyla Kramansky</figcaption></figure>
 
                 <div class="separator"></div>
 
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/rebeccaedelman_shiftedColors_custom.jpg"><figcaption>Custom hue by Rebecca Edelman</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/rebeccaedelmangrayscale_50%.jpg"><figcaption>50% gray by Rebecca Edelman</figcaption></figure>
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/rebeccaedelman_shiftedColors_custom.jpg">
+                <figcaption>Custom shift by R. Edelman</figcaption></figure>
+
+                <figure>
+                <img src="D_face/re_custom1.jpg"  />
+                <figcaption>Custom color shift by Rebecca Edelman</figcaption></figure>
+
+<br>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/D_face/rebeccaedelmangrayscale_50%.jpg">
+                <figcaption>50% gray by R. Edelman</figcaption></figure>
+
+                <figure>
+                <img src="D_face/re_custom2.jpg"  />
+                <figcaption>25% gray by R. Edelman</figcaption></figure>
 
                 <div class="separator"></div>
                 </div>
@@ -314,29 +517,43 @@
 
                 <div class="examples">
                 <figure><img src="E_face/ae_custom.jpg">
+                <figcaption>Untitled by Ari Eaton</figcaption></figure>
+
+                <figure>
                 <img src="E_face/ae_custom_nyc.jpg">
                 <figcaption>Untitled by Ari Eaton</figcaption></figure>
 
                 <div class="separator"></div>
 
-                <figure class="large"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/dagneypatton_personalized.jpg">
+                <figure ><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/dagneypatton_personalized.jpg">
+                <figcaption>Untitled by Dagny Patton</figcaption></figure>
+
+
+                <figure>
                 <img src="E_face/dp_custom.jpg"><figcaption>Untitled by Dagny Patton</figcaption></figure>
 
                 <div class="separator"></div>
 
                 <figure><img img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/deenhussain_custom.jpg">
+                <figcaption>Untitled by Deen Hussain</figcaption></figure>
+
+                <figure>
                 <img src="E_face/dh_custom.jpg"><figcaption>Untitled by Deen Hussain</figcaption></figure>
 
                 <div class="separator"></div>
 
-                <figure><img img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_redgreenbluescale.jpg"></figure>
+                <figure><img img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jacobe_redgreenbluescale.jpg">
+                <figcaption>RedGreenBlue Scale by Jacob Edelman</figcaption></figure>
 
                 <figure>
                 <img img src="E_face/je_custom.jpg"><figcaption>RedGreenBlue Scale by Jacob Edelman</figcaption></figure>
 
                 <div class="separator"></div>
 
-                <figure class="medium"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jeremyyardencustom.jpg">
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jeremyyardencustom.jpg">
+                <figcaption>Untitled by Jeremy Yarden</figcaption></figure>
+
+                <figure>
                 <img src="E_face/jy_custom.jpg"><figcaption>Untitled by Jeremy Yarden</figcaption></figure>
 
                 <div class="separator"></div>
@@ -345,68 +562,152 @@
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_contrast.jpg">
                 <figcaption>Contrasted by Jesse Gallant</figcaption></figure>
                 
-                <figure class="large">
+                <figure>
                 <img src="E_face/jg_custom9.jpg"><figcaption>Contrasted by Jesse Gallant</figcaption></figure>
 
+                <br>
+
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_explode.jpg">
+                <figcaption>Exploded by Jesse Gallant</figcaption></figure>
+
+                <figure>
                 <img src="E_face/jg_custom5.jpg"><figcaption>Exploded by Jesse Gallant</figcaption></figure>
+
+                <br>
 
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_puzzle.jpg">
                 <figcaption>Puzzle by Jesse Gallant</figcaption></figure>
 
-                <figure class="large">
+                <figure>
                 <img src="E_face/jg_custom6.jpg"><figcaption>Puzzle by Jesse Gallant</figcaption></figure>
 
+                <br>
+
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_rotate.jpg">
-                <img src="E_face/jg_custom2.jpg"><figcaption>Rotated by Jesse Gallant</figcaption></figure>
+                <figcaption>Custom rotate by J. Gallant</figcaption></figure>
+
+                <figure>
+                <img src="E_face/jg_custom2.jpg"><figcaption>Custom rotated by Jesse Gallant</figcaption></figure>
+
+                <br>
+
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_swirl.jpg">
+               <figcaption>Swirled by Jesse Gallant</figcaption></figure>
+
+                <figure>
                 <img src="E_face/jg_custom7.jpg"><figcaption>Swirled by Jesse Gallant</figcaption></figure>
+
+                <br>
+
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_unswirl.jpg">
+                <figcaption>Unswirled by J. Gallant</figcaption></figure>
+
+                <figure>
                 <img src="E_face/jg_custom8.jpg"><figcaption>Unswirled by Jesse Gallant</figcaption></figure>
+
+                <br>
          
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/jessegallant_triangulate.jpg">
+                <figcaption>Triangulated by J. Gallant</figcaption></figure>
+
+                 <figure>
                 <img src="E_face/jg_custom1.jpg"><figcaption>Triangulated by Jesse Gallant</figcaption></figure>
                 
                 <div class="separator"></div>
 
-                <figure class="medium"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/kathrynwang_rotated.jpg">
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/kathrynwang_rotated.jpg">
+                <figcaption>Random Rotate by Kathryn Wang</figcaption></figure>
+
+                <figure>
                 <img src="E_face/kw_custom1.jpg">
                 <figcaption>Random Rotate by Kathryn Wang</figcaption></figure>
+
+                <br>
                 
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/kathrynwang_blendedImage.jpg">
+                <figcaption>Blended by Kathryn Wang</figcaption></figure>
+
+                <figure>
                 <img src="E_face/kw_custom2.jpg"><figcaption>Blended by Kathryn Wang</figcaption></figure>
 
-                <figure class="medium"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/kathrynwang_AndyWarholImage.jpg"><figcaption>Andy Warhol by Kathryn Wang</figcaption></figure>
+                <br>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/kathrynwang_AndyWarholImage.jpg"><figcaption>Andy Warhol by Kathryn Wang</figcaption></figure>
 
 
                 <div class="separator"></div>
 
-                <figure class="medium"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/laurenfranco_rainbowImage.jpg"></figure>
+                <figure class="medium"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/laurenfranco_rainbowImage.jpg"><figcaption>Rainbow by Lauren Franco</figcaption></figure>
 
-                <div class="separator"></div>
 
                 <figure class="large"><img src="E_face/lf_custom.jpg" alt=""><figcaption>Rainbow by Lauren Franco</figcaption></figure>
 
                 <div class="separator"></div>
 
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_blur.jpg">
-                <img src="E_face/nyc_blur.jpg"><figcaption>Blur by Max Popick</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_bright_40.0%.jpg">
-                <img src="E_face/nyc_bright.jpg" alt=""><figcaption>Custom Bright (shown at 40% and 80%) by Max Popick</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_rotated_CCW.jpg">
-                <img src="E_face/nyc_rotated_CCW.jpg" alt=""><figcaption>Rotated counter-clockwise by Max Popick</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_rotated_CW.jpg">
-                <img src="E_face/nyc_rotated_CW.jpg" alt=""><figcaption>Rotated clockwise by Max Popick</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_shift_hue_180.0.jpg"><img src="E_face/mp_nyc_shift.jpg" alt=""><figcaption>Shift Hue (shown at 180 deg and 100 deg) by Max Popick</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_x_flipped.jpg">
-                <img src="E_face/nyc_x_flipped.jpg" alt=""><figcaption>X-Flipped by Max Popick</figcaption></figure>
-                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_y_flipped.jpg">
-                <img src="E_face/nyc_y_flipped.jpg" alt=""><figcaption>Y-Flipped by Max Popick</figcaption></figure>
-                <figure class="crop"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_cropped_x_0-100_and_y_0-100.jpg">
-                <img src="E_face/nyc_cropped_x_0-100_and_y_0-100.jpg" alt=""><figcaption>Cropped by Max Popick</figcaption></figure>
+                <figcaption>Blur by Max Popick</figcaption></figure>
 
-                <figure class="large">
-                <img src="E_face/nyc_nyc_rotated_180_difference.jpg" alt=""><figcaption>Difference bet original and rotated by Max Popick</figcaption></figure>
+                <figure>
+                <img src="E_face/nyc_blur.jpg"><figcaption>Blur by Max Popick</figcaption></figure>
+
+                <br>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_bright_40.0%.jpg">
+                <figcaption>40% Bright by M. Popick</figcaption></figure>
+                <figure>
+                <img src="E_face/nyc_bright.jpg" alt=""><figcaption>Custom bright (shown at 80%) by Max Popick</figcaption></figure>
+
+                <br>
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_rotated_CCW.jpg">
+                <figcaption>Rotated ccw by M. Popick</figcaption></figure>
+
+                <figure>
+                <img src="E_face/nyc_rotated_CCW.jpg" alt=""><figcaption>Rotated counter-clockwise by M. Popick</figcaption></figure>
+
+                <br>
+
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_rotated_CW.jpg">
+                <figcaption>Rotated cw by Max Popick</figcaption></figure>
+
+                <figure>
+                <img src="E_face/nyc_rotated_CW.jpg" alt=""><figcaption>Rotated clockwise by Max Popick</figcaption></figure>
+
+                <br>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_shift_hue_180.0.jpg"><figcaption>180 shift by Max Popick</figcaption></figure>
+
+                <figure><img src="E_face/mp_nyc_shift.jpg" alt=""><figcaption>Custom color shift (shown 100 degs.) by Max Popick</figcaption></figure>
+
+                <br>
+
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_x_flipped.jpg">
+                <figcaption>X-Flipped by Max Popick</figcaption></figure>
+
+                <figure>
+                <img src="E_face/nyc_x_flipped.jpg" alt=""><figcaption>X-Flipped by Max Popick</figcaption></figure>
+
+                <br>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_y_flipped.jpg">
+                <figcaption>Y-Flipped by Max Popick</figcaption></figure>
+
+                <figure>
+                <img src="E_face/nyc_y_flipped.jpg" alt=""><figcaption>Y-Flipped by Max Popick</figcaption></figure>
+
+                <br>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/maxpopick_jergens_cropped_x_0-100_and_y_0-100.jpg">
+                <figcaption>Crop by M. Popick</figcaption></figure>
+
+                <figure>
+                <img src="E_face/nyc_cropped_x_0-100_and_y_0-100.jpg" alt=""><figcaption>Crop by M. Popick</figcaption></figure>
+
+                <br>
+
+                <figure>
+                <img src="E_face/nyc_nyc_rotated_180_difference.jpg" alt=""><figcaption>Difference bet original and Y-flipped by Max Popick</figcaption></figure>
 
                 <figure>
                 <img src="E_face/mp_custom_diff.jpg">
@@ -415,28 +716,38 @@
                 <div class="separator"></div>
 
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/oliver.jpg">
+                <figcaption>Untitled by Oliver Schlesinger</figcaption></figure>
+
+                <figure>
                 <img src="E_face/os_custom.jpg" alt="">
                 <figcaption>Untitled by Oliver Schlesinger</figcaption></figure>
 
                 <div class="separator"></div>
 
                 <figure class="photobooth"><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/theo_photoBoothed.jpg">
+                <figcaption>Photo Booth by T. Strauss</figcaption></figure>
+
+                <figure class="photobooth">
                 <img src="E_face/ts_custom.jpg" alt="">
                 <figcaption>Photo Booth by Theo Strauss</figcaption></figure>
 
                 <div class="separator"></div>
 
                 <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/williambarkoff_faceemotiondetection.png">
-                <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/faces.png">
-                <figcaption>Face & Emotion Detection by William Barkoff</figcaption>
+                <figcaption>Emotion Detection by W. Barkoff</figcaption>
                 </figure>
+
+                <figure><img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/faces.png">
+                <figcaption>Emotion Detection by W. Barkoff</figcaption>
+                </figure>
+
                 <figure class="large">
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/faces_copy.png">
                 <figcaption>Face & Emotion Detection by William Barkoff</figcaption>
                 </figure>
                 <figure class="medium">
                 <img src="https://raw.githubusercontent.com/daltonschool/Photoshopper/master/E_face/faces_copy_2.png">
-                <figcaption>Face & Emotion Detection by William Barkoff</figcaption>
+                <figcaption>Face & Emotion Detection by W. Barkoff</figcaption>
                 </figure>
 
                 <div class="separator"></div>
